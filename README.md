@@ -15,6 +15,8 @@
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />         
 </div>
 
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrozzneo)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ### Reach me!! ☎️
 
 <div> 
