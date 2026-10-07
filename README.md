@@ -1,7 +1,7 @@
 ## Hey! I'm Pedro 👋
 
-- 🔭 Today I contribute to PET-ADS at college
-- 🌱 I’m currently learning Next.js & React, Python and Docker
+- 🔭 Today I work at PACTO in a project for the Ministry of Health Brazil
+- 🌱 I’m currently deepening my knowledge in Next.js & React
 - 🚗 I love vintage and sports cars 
 
 <div style="display: inline_block"><br>
